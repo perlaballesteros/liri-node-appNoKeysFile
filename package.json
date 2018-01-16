@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/perlaballesteros/liri-node-appNoKeysFile/issues"
   },
-  "homepage": "https://github.com/perlaballesteros/liri-node-appNoKeysFile#readme"
+  "homepage": "https://github.com/perlaballesteros/liri-node-appNoKeysFile#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
 }
